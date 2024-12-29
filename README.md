@@ -52,6 +52,6 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/invitha123/Location/blob/main/README.md
+   git clone https://github.com/invitha123/Location
    cd location-flow
 
